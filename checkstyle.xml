@@ -15,7 +15,7 @@
         <property name="severity" value="error"/>
         <property name="lineSeparator" value="system"/>
     </module>
-    <module name="FileTabCharacter">
+    <module name="FileTabCharactesr">
         <property name="severity" value="error"/>
     </module>
     <module name="FileLength">
